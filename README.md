@@ -32,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilsametaydin&show_icons=true&locale=en" alt="halilsametaydin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilsametaydin&" alt="halilsametaydin" /></p>
+
+
+
+
+![snake gif](https://github.com/HalilSametAydin/HalilSametAydin/blob/output/github-snake-dark.svg)
