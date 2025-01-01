@@ -1,5 +1,4 @@
-[![image](https://r.resimlink.com/jJUKpaAl2n.png)](https://resimlink.com/jJUKpaAl2n)
-
+[![image](https://r.resimlink.com/qhMgy-oV3Y.png)](https://resimlink.com/qhMgy-oV3Y)
 
 
 
